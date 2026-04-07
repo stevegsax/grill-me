@@ -57,7 +57,7 @@ The skill will ask for a short session name, then walk through your plan branch 
 
 ## Attribution
 
-I have made some modifications to this prompt, but it was inspired by several I saw on the web. Multiple people claiming to have authored it. Among them:
+I have made some modifications to this prompt, but it was inspired by several I saw on the web. Multiple people claim to have authored it. Among them:
 
 - [mattpocock](https://github.com/mattpocock/skills/tree/main)
-- [AIHero.dev](https://www.aihero.dev/my-grill-me-skill-has-gone-viral
+- [AIHero.dev](https://www.aihero.dev/my-grill-me-skill-has-gone-viral)
