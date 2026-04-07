@@ -54,3 +54,10 @@ The skill will ask for a short session name, then walk through your plan branch 
 - Write code, scripts, or deliverables
 - Execute the plan being discussed
 - Review or refactor existing code (use code review tools for that)
+
+## Attribution
+
+I have made some modifications to this prompt, but it was inspired by several I saw on the web. Multiple people claiming to have authored it. Among them:
+
+- [mattpocock](https://github.com/mattpocock/skills/tree/main)
+- [AIHero.dev](https://www.aihero.dev/my-grill-me-skill-has-gone-viral
